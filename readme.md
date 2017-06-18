@@ -1,5 +1,6 @@
 # RHEL ATOMIC NODEJS Minimal Image
 
+Build from atomicnode
 
 ## Restarting with Insecure Registry
 minishift stop 
